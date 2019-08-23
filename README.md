@@ -1,4 +1,4 @@
-# Calculation-based-on-user-input
+# User input
 
 # just a small demo for how to use Scanner class
 
